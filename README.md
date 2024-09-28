@@ -1,2 +1,2 @@
-# netflix_analysis
+# NetFlix Analysis
 Analysing the data in the netflix dataset
